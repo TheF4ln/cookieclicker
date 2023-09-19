@@ -1,0 +1,15 @@
+#cookie{
+    width: 120px;
+    max-width: 100%;
+    display: table;
+}
+body{
+   background-image: url(https://wallpapers.com/images/hd/high-resolution-wood-background-sk0k1ko8b0lxyyf4.jpg);
+}
+.center-box{
+    display: flex;
+    justify-content: center;
+    margin-top: 40vh;
+    text-align: center;
+    color: white;
+}
